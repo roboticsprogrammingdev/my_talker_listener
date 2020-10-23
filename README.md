@@ -1,6 +1,8 @@
 # my_talker_listener
 This is a ROS package to demonstrate that two nodes, which are implemented in different languages, communicate with each other via messages.
 
+This package was tested on ROS Melodic and Ubuntu 18.04 LTS.
+
 ## Installation
 1. Create a catkin workspace.
 ```bash
@@ -11,7 +13,7 @@ This is a ROS package to demonstrate that two nodes, which are implemented in di
 
 2. Clone the repository.
 ```bash
-~/catkin_ws/src$ git clone https://github.com/roboticsprogammingdev/my_talker_listener.git
+~/catkin_ws/src$ git clone https://github.com/roboticsprogrammingdev/my_talker_listener.git
 ~/catkin_ws/src$ cd ..
 ```
 
