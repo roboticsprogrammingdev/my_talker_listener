@@ -30,4 +30,4 @@ Launch the `.launch` file.
 ```
 
 ## Blog post
-Read [Creating a ROS package](https://blog.roboticsprogamming.dev/2020/10/creating-ros-package.html).
+Read [Creating a ROS package](https://blog.roboticsprogramming.dev/2020/10/creating-ros-package.html).
