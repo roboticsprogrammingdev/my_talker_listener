@@ -28,6 +28,7 @@ Launch the `.launch` file.
 ```bash
 ~/catkin_ws$ roslaunch my_talker_listener talker_listener.launch
 ```
+![](ros-demo-launch-talker-listener.gif)
 
 ## Blog post
 Read [Creating a ROS package](https://blog.roboticsprogramming.dev/2020/10/creating-ros-package.html).
